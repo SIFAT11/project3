@@ -1,0 +1,175 @@
+*{
+	padding: 0;
+	margin: 0;
+}
+.heder{
+	text-align: center;
+	background-color:white;
+	padding-top:50px;
+	padding-bottom: 20px;
+	display: flow-root;
+	padding: 26px 300px;
+}
+.heder ul li{
+list-style: none;
+display: inline-block;
+margin-left:12px;
+margin-right: 12px;
+}
+.heder ul  li a{
+color: black;
+text-decoration: none;
+font-size: 20px;
+}
+.heder ul li a{
+	color: black;
+}
+.navber{
+	width: 100%;
+	float: left;
+}
+.logo{
+	width: 20%;
+	    float: left;
+    margin: -25px -54px;
+}
+.manu{
+	width: 80%;
+	float: left;
+}
+
+.con{
+width: 100%;
+float: right;
+}
+.in-con{
+ width: 56%;
+    float: right;
+    padding: 63px 29px;
+}
+.main {
+margin: 4px;
+	
+}
+.main h1{
+    padding: 127px 127px;
+    margin: 27px 95px -113px;
+    color: #1E266D;
+    line-height: 33px;
+    font-size: 58px;
+}
+.main p{
+        margin: 23px -22px;
+    padding: 1px 243px;
+    font: 25px;
+    color: #1E266D;
+    font-size: 24px;
+    line-height: 26px;
+}
+.main button{
+  background-color: #00ACEC;
+    margin: -2px 226px;
+    padding: 12px 23px;
+    border: 2px solid green;
+    border-radius: 10px;
+}
+
+
+.footer{
+	width: 100%;
+	padding:80px 0px;
+	    margin: 0;
+}
+ .top-1 h4{
+ 
+ font-family: 'Roboto', sans-serif;
+    font-size: 36px;
+    font-weight: bold;
+    margin: -3px;
+    padding: 7px 0px;
+    color:black;
+}
+.top-1 p{
+
+}
+.top-2 h4{
+ 
+ font-family: 'Roboto', sans-serif;
+    font-size: 36px;
+    font-weight: bold;
+    margin: -3px;
+    padding: 7px 0px;
+    color:black;
+}
+.top-2 p{
+
+}
+.top-3 h4{
+ 
+ font-family: 'Roboto', sans-serif;
+    font-size: 36px;
+    font-weight: bold;
+    margin: -3px;
+    padding: 7px 0px;
+    color:black;
+}
+.top-3 p{
+
+}
+.top{
+	 display: flex;
+justify-content: space-around;
+margin-bottom: 22px;
+}
+
+
+
+.can{
+width: 100%;
+float: right;
+}
+.in-can{
+ width: 56%;
+    float: right;
+    padding: 63px 29px;
+}
+.maine {
+margin: 4px;
+	
+}
+.maine h1{
+      padding: 282px 130px;
+    margin: 107px 89px -259px;
+    color: #1E266D;
+    line-height: 31px;
+    font-size: 61px;
+}
+.maine p{
+    margin: 23px -22px;
+    padding: 1px 243px;
+    color: #1E266D;
+    font-size: 16px;
+    line-height: 28px;
+}
+.maine h3{
+	  margin: 80px 204px -376px;
+    padding: 69px 20px 1px;
+}
+.maine button{
+  background-color: #00ACEC;
+    margin: -2px 226px;
+    padding: 12px 23px;
+    border: 2px solid green;
+    border-radius: 10px;
+}
+.cun{
+padding: 15px 72px;
+}
+.bu{
+	font-size: 45px;
+    color: #07324f;
+    line-height: 46px;
+    margin-bottom: 20px;
+    font-weight: 700;
+
+}
